@@ -1,7 +1,7 @@
 ### Hi there My name is Rodolfo "nullfil3" Tavares 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <img src="https://media.giphy.com/media/TOWeGr70V2R1K/giphy.gif" width=150>
   <br><br>
   <samp>
     I'm always learning about developer/security/pentest.. infosec in general and aspiring security eng :computer:. </samp>.
