@@ -11,7 +11,7 @@
     How to reach me: @nullfil3 (Twitter) 
 </p>
 
-### My Contacts
+### Social
 <a href="https://twitter.com/nullfil3">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
